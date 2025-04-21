@@ -23,7 +23,8 @@ Uma aplicação simples de um sistema bancário em Java, desenvolvida para coloc
 ## 👨‍💻 Autor
 
 Projeto desenvolvido como parte do primeiro curso de Java e Orientação a Objetos - Java: Criando a sua primeira aplicação!
-Faendo parte da turma G8 do programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) pela [Alura](https://www.alura.com.br/).
+
+Fazendo parte da turma G8 do programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) pela [Alura](https://www.alura.com.br/).
 
 
 ------
